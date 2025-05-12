@@ -1,4 +1,7 @@
-Auteurs :
-    Louis AMEDRO
-    Leo DEHAME
-    Jules HERBAUX
+*Auteurs :
+    
+Louis AMEDRO
+    
+Leo DEHAME
+    
+Jules HERBAUX
