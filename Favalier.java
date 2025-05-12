@@ -95,8 +95,8 @@ class Favalier extends Piece{
 	// . . C . .
 	// X . . . .
 	// . . . . .
-	int indiceX = positionDepartX-2;
-	int indiceY = positionDepartY-1;
+	indiceX = positionDepartX-2;
+	indiceY = positionDepartY-1;
 	if((indiceX >= 0) && (indiceX < 8) && (indiceY >= 0) && (indiceY < 8)){
 	    Piece pi = pl.getCase(indiceX, indiceY);
 	    if(pi == null)
