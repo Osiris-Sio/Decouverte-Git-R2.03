@@ -1,4 +1,4 @@
-*Auteurs :
+Auteurs :
     
 Louis AMEDRO
     
