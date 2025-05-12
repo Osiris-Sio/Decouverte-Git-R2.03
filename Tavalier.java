@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Tavalier extends Piece{
+public class Tavalier{
 
     public Tavalier(){
 	super('B', new Position());
